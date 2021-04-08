@@ -3,3 +3,4 @@ GIT est un outils de control des version
 Je suis entrain de tester les annulation
 Test des annulations d'ajouts de fichiers au commits
 le merge peut etre fastforward ou recursive. je suis en trqin de tester le recur
+le teste commance maintenant à proprement dit (recurive merging)
