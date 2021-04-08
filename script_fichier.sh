@@ -6,4 +6,3 @@ cd
 touch fichier_client_$NOW
 scp fichier_client_$NOW  $HOST
 exit
-olapsjsasnxsaxsuixasjbxjh
